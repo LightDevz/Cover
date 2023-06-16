@@ -1,7 +1,7 @@
 # Cover Me in the server
 
 
-write this code to server 
+write this code to server to safe you
 
 ```sh
 
